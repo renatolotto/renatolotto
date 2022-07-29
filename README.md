@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hello World, I'm Renato Storti Lotto! 👋
 
-<!--
-**renatolotto/renatolotto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🤓 I'm bachelor and master in mechanical engineering;
+- 🌎 I live in Brazil;
+- 🔭 I’m currently working at **Zup Innovation** (full-time) and **Horizon Partners** (part-time) as a consultant;
+- 📚 I’m currently studying Data Science.
 
-Here are some ideas to get you started:
+![My stats](https://github-readme-stats.vercel.app/api?username=renatolotto&theme=merko&show_icons=true&count_private=true)
+<p align=left> <img src=https://komarev.com/ghpvc/?username=renatolotto alt=renatolotto /> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renatostorti-lotto/)](https://www.linkedin.com/in/renatostorti-lotto/)
+[![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:renatolotto@hotmail.com)](mailto:renatolotto@hotmail.com)
+[![Github Badge](https://img.shields.io/badge/-renatolotto-grey?style=flat&logo=github&logoColor=white&link=https://github.com/renatolotto/)](https://www.github.com/renatolotto/)
+
