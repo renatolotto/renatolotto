@@ -1,7 +1,7 @@
 ### Hello World, I'm Renato Storti Lotto! 👋
 
 - 📚 I’m a Data Scientist passionate about solving complex business problems using data!
-- 🤓 I'm BSc. in Mechanical Engineering and MSc in Machine Learning applied to Engineering ;
+- 🤓 I'm BSc. in Mechanical Engineering and MSc. in Machine Learning applied to Engineering ;
 - 🌎 I live in Brazil;
 - 🔭 I’m currently working at **Zup Innovation** (full-time) and **Horizon Partners** (part-time) as a Data Scientist consultant;
 
