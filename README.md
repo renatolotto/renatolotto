@@ -3,7 +3,7 @@
 - 📚 I’m a Data Scientist passionate about solving complex business problems using data!
 - 🤓 I'm BSc. in Mechanical Engineering and MSc. in Machine Learning applied to Engineering ;
 - 🌎 I live in Brazil;
-- 🔭 I’m currently working at **Itaú Unibanco** (full-time) as a Data Scientist consultant;
+- 🔭 I’m currently working at **Itaú Unibanco** (full-time) as a Data Scientist;
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=renatolotto&theme=merko&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 <p align=left> <img src=https://komarev.com/ghpvc/?username=renatolotto alt=renatolotto /> </p>
